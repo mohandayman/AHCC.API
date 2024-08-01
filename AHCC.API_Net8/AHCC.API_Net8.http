@@ -1,0 +1,6 @@
+@AHCC.API_Net8_HostAddress = http://localhost:5078
+
+GET {{AHCC.API_Net8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
